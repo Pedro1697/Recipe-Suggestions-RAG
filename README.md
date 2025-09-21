@@ -1,4 +1,5 @@
 # Recipe Suggestions RAG
+![Demo](gif_rag.gif)
 
 ## Environment Variables
 > GOOGLE_API_KEY
