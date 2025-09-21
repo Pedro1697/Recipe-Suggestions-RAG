@@ -5,6 +5,8 @@
 
 To run this project, you will need to add the following environment variables to your .evn file
 
+## Database
+https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews
 ## Usage
 
 Clone the repository
