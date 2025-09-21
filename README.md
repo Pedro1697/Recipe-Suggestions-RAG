@@ -52,4 +52,6 @@ Ex: ingredeints: "pasta, salami, tomato"
 - **.env** – Environment variables (API keys, paths, etc.).
 - **Git** – Version control.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
